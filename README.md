@@ -1,4 +1,3 @@
-
 # Razorpay Clone 💳
 
 A responsive clone of the Razorpay landing page built using **HTML**, **Tailwind CSS**, and **Vite**.
@@ -59,13 +58,13 @@ npm run dev
 
 ## 📸 Preview
 
-<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 49 PM" src="https://github.com/user-attachments/assets/c7e84638-28ac-4569-a3e6-be366a750218" />
-<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 35 PM" src="https://github.com/user-attachments/assets/b255e2f0-4382-4a5c-9e99-3e973f737b67" />
-<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 23 PM" src="https://github.com/user-attachments/assets/fe652cc8-56ed-4236-a683-c69caba00f8f" />
-<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 15 PM" src="https://github.com/user-attachments/assets/b1ecd6ec-e735-411f-a5ad-1b465f93b7e4" />
-<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 09 PM" src="https://github.com/user-attachments/assets/4263661e-95cc-43d4-a37c-cf0f200c4c4f" />
-<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 02 PM" src="https://github.com/user-attachments/assets/8de42af1-6b25-4110-acb4-c128a28a6cf7" />
-<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 36 55 PM" src="https://github.com/user-attachments/assets/7cf9487a-e77b-4c1d-8762-77c3623097fc" />
+<img width="1440" height="900" alt="join experienceSection" src="https://github.com/user-attachments/assets/efa75b1d-1877-434d-a2d0-bb6754fdee00" />
+<img width="1440" height="900" alt="home" src="https://github.com/user-attachments/assets/ea4f9dd2-6eed-43ea-abff-087ed5251958" />
+<img width="1440" height="900" alt="footer" src="https://github.com/user-attachments/assets/0496b32c-9586-46f8-8499-390917c37f9b" />
+<img width="1440" height="900" alt="featureSection3" src="https://github.com/user-attachments/assets/74af95d5-f99a-43ca-9d1d-0f9dcd1d1d62" />
+<img width="1440" height="900" alt="featureSection2" src="https://github.com/user-attachments/assets/75ca6a17-3de9-4035-ba0b-974abbd60677" />
+<img width="1440" height="900" alt="featureSection1" src="https://github.com/user-attachments/assets/03ad93be-cd83-4fef-bdf4-a55a530c1b8a" />
+<img width="1440" height="900" alt="coreFeatures" src="https://github.com/user-attachments/assets/9255f67f-f58b-4c54-a1e0-4b41a5dd2ea7" />
 
 
 ## 📌 Future Improvements
