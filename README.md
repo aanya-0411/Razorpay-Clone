@@ -1,3 +1,4 @@
+
 # Razorpay Clone 💳
 
 A responsive clone of the Razorpay landing page built using **HTML**, **Tailwind CSS**, and **Vite**.
@@ -54,9 +55,17 @@ Start the development server:
 
 ```bash
 npm run dev
-```<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 09 PM" src="https://github.com/user-attachments/assets/9f072663-a3f3-4833-9c41-3d5431c7cc89" />
-<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 02 PM" src="https://github.com/user-attachments/assets/53c8e8b4-5a5e-4849-accd-211242544e39" />
-<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 36 55 PM" src="https://github.com/user-attachments/assets/4f38b1b9-6ca1-4898-beb8-e385e8d4af84" />
+```
+
+## 📸 Preview
+
+<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 49 PM" src="https://github.com/user-attachments/assets/c7e84638-28ac-4569-a3e6-be366a750218" />
+<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 35 PM" src="https://github.com/user-attachments/assets/b255e2f0-4382-4a5c-9e99-3e973f737b67" />
+<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 23 PM" src="https://github.com/user-attachments/assets/fe652cc8-56ed-4236-a683-c69caba00f8f" />
+<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 15 PM" src="https://github.com/user-attachments/assets/b1ecd6ec-e735-411f-a5ad-1b465f93b7e4" />
+<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 09 PM" src="https://github.com/user-attachments/assets/4263661e-95cc-43d4-a37c-cf0f200c4c4f" />
+<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 37 02 PM" src="https://github.com/user-attachments/assets/8de42af1-6b25-4110-acb4-c128a28a6cf7" />
+<img width="1440" height="900" alt="Screenshot 2026-07-01 at 8 36 55 PM" src="https://github.com/user-attachments/assets/7cf9487a-e77b-4c1d-8762-77c3623097fc" />
 
 
 ## 📌 Future Improvements
