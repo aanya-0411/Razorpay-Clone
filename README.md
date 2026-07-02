@@ -67,9 +67,9 @@ npm run dev
 <img width="1440" height="900" alt="featureSection1" src="https://github.com/user-attachments/assets/03ad93be-cd83-4fef-bdf4-a55a530c1b8a" />
 <img width="1440" height="900" alt="coreFeatures" src="https://github.com/user-attachments/assets/9255f67f-f58b-4c54-a1e0-4b41a5dd2ea7" />
 
+## 🌐 Live Website 
+https://razorpay-clone-rho-ruddy.vercel.app/
 
-/Users/aanya/Desktop/Razorpay website/screenshots_of_razorpay
- 264c5ca (Update README with screenshots)
 
 ## 📌 Future Improvements
 
@@ -80,9 +80,5 @@ npm run dev
 ## 👩‍💻 Author
 
 **Aanya Budhiraja**
-
- HEAD
 GitHub: https://github.com/aanya-0411
 
-GitHub: https://github.com/aanya-0411
-264c5ca (Update README with screenshots)
